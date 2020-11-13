@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.exe
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.deps.json
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.runtimeconfig.json
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.dll
+C:\Users\DEV\Desktop\c#\backend\idade em anos\bin\Debug\netcoreapp3.1\idade em anos.pdb
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.AssemblyInfo.cs
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.dll
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.pdb
+C:\Users\DEV\Desktop\c#\backend\idade em anos\obj\Debug\netcoreapp3.1\idade em anos.genruntimeconfig.cache
